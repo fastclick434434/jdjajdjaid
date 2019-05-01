@@ -4,31 +4,27 @@ self.__precacheManifest = [
     "url": "/jdjajdjaid/static/media/persik.4e1ec840.png"
   },
   {
-    "revision": "17b26cc4077ddc94fe76cd7b07f618fd",
-    "url": "/jdjajdjaid/static/media/Obnovlenie.17b26cc4.png"
-  },
-  {
     "revision": "e4259f13d6120fb262d5",
     "url": "/jdjajdjaid/static/js/runtime~main.e4259f13.js"
   },
   {
-    "revision": "a9ef3510bd8be240afa4",
-    "url": "/jdjajdjaid/static/js/main.a9ef3510.chunk.js"
+    "revision": "a43b55937058d28310d2",
+    "url": "/jdjajdjaid/static/js/main.a43b5593.chunk.js"
   },
   {
-    "revision": "160e573983a7751c93d1",
-    "url": "/jdjajdjaid/static/js/2.160e5739.chunk.js"
+    "revision": "09b9b75202f3f9cc25f5",
+    "url": "/jdjajdjaid/static/js/2.09b9b752.chunk.js"
   },
   {
-    "revision": "a9ef3510bd8be240afa4",
+    "revision": "a43b55937058d28310d2",
     "url": "/jdjajdjaid/static/css/main.317e62f7.chunk.css"
   },
   {
-    "revision": "160e573983a7751c93d1",
+    "revision": "09b9b75202f3f9cc25f5",
     "url": "/jdjajdjaid/static/css/2.d077adbc.chunk.css"
   },
   {
-    "revision": "2e16afea297a7bc3fd384aaf0fbd0592",
+    "revision": "0748484fe56987c3df95a9ef62e46656",
     "url": "/jdjajdjaid/index.html"
   }
 ];
