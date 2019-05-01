@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fastclick434434/jdjajdjaid/precache-manifest.e5e9c0e350ea0637733aba7df6d7da9b.js"
+  "/jdjajdjaid/precache-manifest.d38e494bd9edcb29712284f93c3956ce.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/fastclick434434/jdjajdjaid/index.html", {
+workbox.routing.registerNavigationRoute("/jdjajdjaid/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
