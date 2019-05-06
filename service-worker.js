@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/VKCoinApp/precache-manifest.433ca372da8e64aaead3d53ada3b455e.js"
+  "/jdjajdjaid/precache-manifest.fd89816b89702e7c9fc109787226db42.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/VKCoinApp/index.html", {
+workbox.routing.registerNavigationRoute("/jdjajdjaid/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
