@@ -1,15 +1,15 @@
 {
-  "main.css": "/jdjajdjaid/static/css/main.ff1b61ab.chunk.css",
-  "main.js": "/jdjajdjaid/static/js/main.29da42a6.chunk.js",
-  "main.js.map": "/jdjajdjaid/static/js/main.29da42a6.chunk.js.map",
-  "runtime~main.js": "/jdjajdjaid/static/js/runtime~main.45e2ac0a.js",
-  "runtime~main.js.map": "/jdjajdjaid/static/js/runtime~main.45e2ac0a.js.map",
-  "static/css/2.58897533.chunk.css": "/jdjajdjaid/static/css/2.58897533.chunk.css",
-  "static/js/2.570d8017.chunk.js": "/jdjajdjaid/static/js/2.570d8017.chunk.js",
-  "static/js/2.570d8017.chunk.js.map": "/jdjajdjaid/static/js/2.570d8017.chunk.js.map",
-  "index.html": "/jdjajdjaid/index.html",
-  "precache-manifest.2c170370110361a4f11f7f60ed3fa9c4.js": "/jdjajdjaid/precache-manifest.2c170370110361a4f11f7f60ed3fa9c4.js",
-  "service-worker.js": "/jdjajdjaid/service-worker.js",
-  "static/css/2.58897533.chunk.css.map": "/jdjajdjaid/static/css/2.58897533.chunk.css.map",
-  "static/css/main.ff1b61ab.chunk.css.map": "/jdjajdjaid/static/css/main.ff1b61ab.chunk.css.map"
+  "main.css": "/VKCoinApp/static/css/main.fcfce41b.chunk.css",
+  "main.js": "/VKCoinApp/static/js/main.856b3615.chunk.js",
+  "main.js.map": "/VKCoinApp/static/js/main.856b3615.chunk.js.map",
+  "runtime~main.js": "/VKCoinApp/static/js/runtime~main.9a5f2b67.js",
+  "runtime~main.js.map": "/VKCoinApp/static/js/runtime~main.9a5f2b67.js.map",
+  "static/css/2.a57d63cc.chunk.css": "/VKCoinApp/static/css/2.a57d63cc.chunk.css",
+  "static/js/2.b638d771.chunk.js": "/VKCoinApp/static/js/2.b638d771.chunk.js",
+  "static/js/2.b638d771.chunk.js.map": "/VKCoinApp/static/js/2.b638d771.chunk.js.map",
+  "index.html": "/VKCoinApp/index.html",
+  "precache-manifest.433ca372da8e64aaead3d53ada3b455e.js": "/VKCoinApp/precache-manifest.433ca372da8e64aaead3d53ada3b455e.js",
+  "service-worker.js": "/VKCoinApp/service-worker.js",
+  "static/css/2.a57d63cc.chunk.css.map": "/VKCoinApp/static/css/2.a57d63cc.chunk.css.map",
+  "static/css/main.fcfce41b.chunk.css.map": "/VKCoinApp/static/css/main.fcfce41b.chunk.css.map"
 }
