@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/jdjajdjaid/static/js/runtime~main.45e2ac0a.js"
   },
   {
-    "revision": "eab1c84c4ee0eef8e51b",
-    "url": "/jdjajdjaid/static/js/main.3ca42fbb.chunk.js"
+    "revision": "e5c3fd2c2c3f981af795",
+    "url": "/jdjajdjaid/static/js/main.f7469355.chunk.js"
   },
   {
-    "revision": "3653b0df70ac5d1e02cb",
-    "url": "/jdjajdjaid/static/js/2.875e22d8.chunk.js"
+    "revision": "74249dba93625a74f66d",
+    "url": "/jdjajdjaid/static/js/2.cac8548b.chunk.js"
   },
   {
-    "revision": "3653b0df70ac5d1e02cb",
+    "revision": "74249dba93625a74f66d",
     "url": "/jdjajdjaid/static/css/2.0e64b50e.chunk.css"
   },
   {
-    "revision": "a327482524c35f04ab686ee711727c36",
+    "revision": "a0c5be082035bd76c732b9fe63fa42a8",
     "url": "/jdjajdjaid/index.html"
   }
 ];
